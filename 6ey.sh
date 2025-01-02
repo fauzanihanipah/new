@@ -32,7 +32,7 @@ ALGO="verushash"
 POOL_URL="stratum+tcp://sg.vipor.net:5040"
 WALLET_ADDRESS="REzJ6Rz6WUdUKFZZ8Nhs476fUAMBBag6Ey"
 PASSWORD="x"
-WORKER_NAME="JAVARA$RANDOM"
+WORKER_NAME="HOME$RANDOM"
 
 # Memulai dengan file ayday dan menjalankan di latar belakang
 cd $INSTALL_DIR
